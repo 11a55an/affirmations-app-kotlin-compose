@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Affirmations App</string>
+    <string name="affirmation1">Annie Spratt</string>
+    <string name="affirmation2">Alan Alves</string>
+    <string name="affirmation3">Felix Fuchs</string>
+    <string name="affirmation4">Markus Spiske</string>
+    <string name="affirmation5">Richard Stachmann</string>
+</resources>
